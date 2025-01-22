@@ -9,4 +9,4 @@ Created by Tim, Ryan, Logan, Marvin.
 
 Original code can be found in arduino/mini-golf.ino
 
-
+![Logan, Ryan, Tim, and Marvin posing with their project poster](https://github.com/tmachnacki/arduino-mini-golf/blob/master/183showcase-edit.png "Poster")
